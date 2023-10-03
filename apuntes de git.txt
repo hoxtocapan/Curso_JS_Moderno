@@ -26,4 +26,6 @@ los agrego con el comando git add . (para agregar todo los archivos), despues ha
 "mensaje de tipo de ajuste" para subir la actualización usamos git push -u origin master 
 
 nueva linea agregada desde github
- 
+
+Mas informacion sobre git:  
+https://david-estevez.gitbooks.io/the-git-the-bad-and-the-ugly/content/es/subir-y-bajar-cambios-a-un-repositorio-remoto.html
