@@ -1,0 +1,27 @@
+git init : Inicializar un nuevo proyecto proyecto.
+
+git status : para ver el estado de nuestras archivos
+
+git add : para agragar un archivo al staging area.
+
+git commit -m "" : para crear un primer punto de control de nuestro código.
+
+git log : para ver todos los commits que hemos creados
+
+git checkout -- nombre de archivo : para revertir los de los archivos
+
+git diff : para ver las diferencias hachas en los archivos
+
+git push -u origin --nombre de la rama--
+
+// --
+
+git branch 
+
+
+.gitignore : archivo en donde se colocaran todos las archivos que no se deseen subir.
+
+Para actualizar el repositorio primero primero tengo que ver es estatus de con el comando git status una vez que hice modificaciones
+los agrego con el comando git add . (para agregar todo los archivos), despues hacemos agregamos el commit con git commit -m 
+"mensaje de tipo de ajuste" para subir la actualización usamos git push -u origin master 
+ 
