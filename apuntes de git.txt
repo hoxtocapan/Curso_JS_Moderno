@@ -24,4 +24,6 @@ git branch
 Para actualizar el repositorio primero primero tengo que ver es estatus de con el comando git status una vez que hice modificaciones
 los agrego con el comando git add . (para agregar todo los archivos), despues hacemos agregamos el commit con git commit -m 
 "mensaje de tipo de ajuste" para subir la actualización usamos git push -u origin master 
+
+nueva linea agregada desde github
  
